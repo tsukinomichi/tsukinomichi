@@ -2,7 +2,7 @@
 
 # ☾ tsukinomichi
 
-### Ideias que ganham forma. Tecnologia que aproxima pessoas.
+### Τὰ πάντα ῥεῖ
 
 Desenvolvimento web · Interfaces · Soluções para impacto social
 
